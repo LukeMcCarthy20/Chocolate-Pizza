@@ -1,11 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
 
 
-body{
-
-
-}
-
 .logo{
   margin-left: 450px;
 }
@@ -18,7 +13,8 @@ nav {
 }
 
 .headerlogo{
-  font-family: 'Dancing+Script:wght@600';
+  font-family: 'Dancing Script';
+  font-size: 1.1em;
   top:5px;
   margin-left: 500px;
   position: absolute;
@@ -36,16 +32,107 @@ nav {
   margin-left: 450px;
 }
 
+.line2{
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 450px;
+}
+
 .header1{
   font-size: 2em;
-  margin-top: 50px;
+  margin-top: -75px;
+  position: absolute;
+  margin-left: 475px;
+  font-weight: bold;
 }
 
 
 .mainImage{
+  margin-top: 150px;
   text-align: center;
 
 }
+
+.date{
+  position: absolute;
+  margin-left: 480px;
+  margin-top: -35px;
+  font-size: .7em;
+
+}
+
+.p{
+  position: absolute;
+  margin-left: 480px;
+  max-width: 900px;
+}
+
+
+
+
+
+.note{
+  position: absolute;
+  margin-top:150px;
+  margin-left: 480px;
+  padding:20px;
+  width: 850px;
+  background-image: url(../Images/list-bg.png);
+}
+
+.note ul{
+  list-style-type: square;
+}
+
+
+
+.name{
+  position: absolute;
+  margin-top: 450px;
+  margin-left: 600px;
+  font-weight: bold;
+
+}
+
+.van{
+  position: absolute;
+  margin-top: 440px;
+  margin-left: 500px;
+}
+
+.finalp{
+  position: absolute;
+  margin-top: 490px;
+  margin-left: 600px;
+
+}
+.share{
+  position: absolute;
+  background-color: orangered;
+  color: white;
+  width: 125px;
+  height: 25px;
+  margin-top: 490px;
+  margin-left: 1250px;
+  border-color: orangered;
+}
+
+hr{
+margin-top: 600px;
+
+}
+
+.logo2{
+  margin-top: -25px;
+  text-align: center;
+
+}
+
+footer{
+  margin-top: 15px;
+  text-align: center;
+}
+
 
 
 
