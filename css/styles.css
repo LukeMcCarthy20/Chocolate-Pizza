@@ -6,25 +6,49 @@ body{
 
 }
 
+.logo{
+  margin-left: 450px;
+}
+
 nav {
   float: right;
   position: absolute;
   top: 5px;
-  margin-left: 1260px;
+  margin-left: 1150px;
 }
 
 .headerlogo{
   font-family: 'Dancing+Script:wght@600';
-  float: right;
   top:5px;
-  margin-left: 40px;
+  margin-left: 500px;
   position: absolute;
 }
 
 .headerDesc{
   float: right;
   margin-top: -15px;
-  margin-left: 40px;
+  margin-left: 500px;
   position: absolute;
 }
+
+.line{
+  position: absolute;
+  margin-left: 450px;
+}
+
+.header1{
+  font-size: 2em;
+  margin-top: 50px;
+}
+
+
+.mainImage{
+  text-align: center;
+
+}
+
+
+
+
+
 
