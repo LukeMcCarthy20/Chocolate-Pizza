@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+
+
+body{
+
+
+}
+
+nav {
+  float: right;
+  position: absolute;
+  top: 5px;
+  margin-left: 1260px;
+}
+
+.headerlogo{
+  font-family: 'Dancing+Script:wght@600';
+  float: right;
+  top:5px;
+  margin-left: 40px;
+  position: absolute;
+}
+
+.headerDesc{
+  float: right;
+  margin-top: -15px;
+  margin-left: 40px;
+  position: absolute;
+}
+
