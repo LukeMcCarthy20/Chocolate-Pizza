@@ -2,7 +2,7 @@
 
 
 .logo{
-  margin-left: 450px;
+  margin-left: 480px;
 }
 
 nav {
@@ -16,26 +16,26 @@ nav {
   font-family: 'Dancing Script';
   font-size: 1.1em;
   top:5px;
-  margin-left: 500px;
+  margin-left: 520px;
   position: absolute;
 }
 
 .headerDesc{
   float: right;
   margin-top: -15px;
-  margin-left: 500px;
+  margin-left: 520px;
   position: absolute;
 }
 
 .line{
   position: absolute;
-  margin-left: 450px;
+  margin-left: 480px;
 }
 
 .line2{
   position: absolute;
   margin-top: 400px;
-  margin-left: 450px;
+  margin-left: 480px;
 }
 
 .header1{
